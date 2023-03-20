@@ -12,14 +12,14 @@ This is a full-stack web application that displays the latest news articles from
 
 ## Server-side Setup
 
-1. Clone the repository: `git clone https://github.com/kabirsingh2004/news-app.git`
-2. Navigate to the project directory: `cd news-app/server`
+1. Clone the repository: `git clone https://github.com/kabirsingh2004/react-news-app.git`
+2. Navigate to the project directory: `cd react-news-app/server`
 3. Install dependencies: `npm install`
 4. Start the server: `npm run dev`
 
 ## Client-side Setup
 
-1. Navigate to the project directory: `cd news-app/client`
+1. Navigate to the project directory: `cd react-news-app/client`
 2. Install dependencies: `npm install`
 3. Go to src/App.jsx and change `API_BASE_URL` to Your Server Side API Url
 4. Start the client: `npm run dev`
